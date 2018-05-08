@@ -1,0 +1,6 @@
+.Guess-amount{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:rgb(55, 0, 255);
+}
